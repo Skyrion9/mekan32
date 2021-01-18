@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_api",
+    "\\app_api\\controllers",
+    "\\app_api\\routes",
+    "\\app_server",
+    "\\app_server\\routes",
+    "\\app_server\\views",
+    "\\app_server\\views\\ortak_fonksiyonlar",
+    "\\public",
+    "\\public\\javascripts"
+  ],
+  "SelectedNode": "\\app_api\\controllers\\mekanlar.js",
+  "PreviewInSolutionExplorer": false
+}
